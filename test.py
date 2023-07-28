@@ -1,1 +1,1 @@
-Console.log("Hello coursera");
+print("Hello coursera")
